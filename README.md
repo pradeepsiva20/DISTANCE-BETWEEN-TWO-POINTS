@@ -15,7 +15,16 @@ Print using .format model
 ### Step 5: 
 End the program
 ### PROGRAM:
-  
+```
+  #Program to find the distance between two points.
+#Developed by: pradeep.S
+#RegisterNumber:22009034
+import math as m
+l1=[4,2]
+l2=[10,6]
+d=m.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
+print("{:.2f}".format(d))
+```
 
 
 ### OUTPUT:
