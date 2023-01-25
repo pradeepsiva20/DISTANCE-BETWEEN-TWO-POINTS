@@ -16,7 +16,7 @@ Print using .format model
 End the program
 ### PROGRAM:
 ```
-  #Program to find the distance between two points.
+#Program to find the distance between two points.
 #Developed by: pradeep.S
 #RegisterNumber:22009034
 import math as m
